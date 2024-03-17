@@ -69,7 +69,7 @@ fi
 # Print some useful information to the terminal before entering PRoot.
 # This is to introduce the user with the various Alpine Linux commands.
 clear && cat << EOF
-
+Done (0.000s)! For help, type \"help\
  gotty -p [server-port] -w ash : share your terminal
  
 EOF
